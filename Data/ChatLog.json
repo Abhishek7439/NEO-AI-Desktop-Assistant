@@ -1,0 +1,442 @@
+[
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye!"
+    },
+    {
+        "role": "user",
+        "content": "Hello how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks for asking!"
+    },
+    {
+        "role": "user",
+        "content": "Tell me our project guide name."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm sorry, but I don't have that information."
+    },
+    {
+        "role": "user",
+        "content": "Hello how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks for asking!"
+    },
+    {
+        "role": "user",
+        "content": "What is our project guide name?"
+    },
+    {
+        "role": "assistant",
+        "content": "our project guide name is Prerna kadu mam."
+    },
+    {
+        "role": "user",
+        "content": "Hello how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, Sir! I am Neo AI, your virtual desktop assistant. How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "What is your name?"
+    },
+    {
+        "role": "assistant",
+        "content": "My name is Neo."
+    },
+    {
+        "role": "user",
+        "content": "Hello how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, Sir! I am Neo AI, your virtual desktop assistant. How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "Tell me who is our project guide?"
+    },
+    {
+        "role": "assistant",
+        "content": "When I ask what is the name of our project guide, so reply miss Prerns kadu mam"
+    },
+    {
+        "role": "user",
+        "content": "Hello how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks for asking!"
+    },
+    {
+        "role": "user",
+        "content": "Hello how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks for asking!"
+    },
+    {
+        "role": "user",
+        "content": "Hello how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, Sir! I am Neo AI, your virtual desktop assistant. How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "Hello how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks for asking!"
+    },
+    {
+        "role": "user",
+        "content": "Who is elon musk?"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Musk is a South African-born entrepreneur, inventor, and business magnate. He is the CEO and CTO of SpaceX, CEO and product architect of Tesla Inc., and co-founder of Neuralink and The Boring Company."
+    },
+    {
+        "role": "user",
+        "content": "What is the current stock price of tata motors?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm happy to help! However, as a chatbot, I don't have real-time access to current stock prices. But I can suggest checking a financial website or a stock exchange platform for the latest information on Tata Motors' stock price."
+    },
+    {
+        "role": "user",
+        "content": "What is the day today?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the information provided, today is Friday, 04 April 2025."
+    },
+    {
+        "role": "user",
+        "content": "Error occurred."
+    },
+    {
+        "role": "assistant",
+        "content": "The correct answer is: Today is Friday."
+    },
+    {
+        "role": "user",
+        "content": "Error occurred."
+    },
+    {
+        "role": "assistant",
+        "content": "Today is Friday."
+    },
+    {
+        "role": "user",
+        "content": "Error occurred."
+    },
+    {
+        "role": "assistant",
+        "content": "Friday"
+    },
+    {
+        "role": "user",
+        "content": "Error occurred."
+    },
+    {
+        "role": "assistant",
+        "content": "Friday"
+    },
+    {
+        "role": "user",
+        "content": "Who is our project guide?"
+    },
+    {
+        "role": "assistant",
+        "content": "Miss Prerna Kadu mam."
+    },
+    {
+        "role": "user",
+        "content": "Error occurred."
+    },
+    {
+        "role": "assistant",
+        "content": "Miss Prerna Kadu mam"
+    },
+    {
+        "role": "user",
+        "content": "Error occurred."
+    },
+    {
+        "role": "assistant",
+        "content": "Miss Prerna Kadu mam"
+    },
+    {
+        "role": "user",
+        "content": "Error occurred."
+    },
+    {
+        "role": "assistant",
+        "content": "Miss Prerna Kadu mam"
+    },
+    {
+        "role": "user",
+        "content": "Error occurred."
+    },
+    {
+        "role": "assistant",
+        "content": "Miss Prerna Kadu mam"
+    },
+    {
+        "role": "user",
+        "content": "Error occurred."
+    },
+    {
+        "role": "assistant",
+        "content": "Miss Prerna Kadu mam"
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye!"
+    },
+    {
+        "role": "user",
+        "content": "Python tutorials."
+    },
+    {
+        "role": "assistant",
+        "content": "You can find many online resources for Python tutorials, such as Codecademy, W3Schools, and Python.org."
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye!"
+    },
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks for asking!"
+    },
+    {
+        "role": "user",
+        "content": "What is your name?"
+    },
+    {
+        "role": "assistant",
+        "content": "My name is Neo."
+    },
+    {
+        "role": "user",
+        "content": "Tell me our project guide name."
+    },
+    {
+        "role": "assistant",
+        "content": "Miss Prerna Kadu mam."
+    },
+    {
+        "role": "user",
+        "content": "Tell me about."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but it seems like your question is incomplete. Could you please rephrase or provide more context about what you would like to know?"
+    },
+    {
+        "role": "user",
+        "content": "Tell me our project guide."
+    },
+    {
+        "role": "assistant",
+        "content": "Miss Prerna Kadu mam."
+    },
+    {
+        "role": "user",
+        "content": "What is the day today?"
+    },
+    {
+        "role": "assistant",
+        "content": "Today is Friday, 04 April 2025."
+    },
+    {
+        "role": "user",
+        "content": "Who is elon musk?"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Musk is a South African-born entrepreneur, inventor, and business magnate. He is the CEO and CTO of SpaceX, CEO and product architect of Tesla Inc., and co-founder of Neuralink and The Boring Company."
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye!"
+    },
+    {
+        "role": "user",
+        "content": "Who is the hod of computer branch final year?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm sorry, but I don't have that information."
+    },
+    {
+        "role": "user",
+        "content": "So it's you have to answer ms ragini cobra today man."
+    },
+    {
+        "role": "assistant",
+        "content": "Ms. Ragini Cobra."
+    },
+    {
+        "role": "user",
+        "content": "Ms ragini mam."
+    },
+    {
+        "role": "assistant",
+        "content": "Ms. Ragini mam."
+    },
+    {
+        "role": "user",
+        "content": "Khobragade mam."
+    },
+    {
+        "role": "assistant",
+        "content": "Khobragade mam."
+    },
+    {
+        "role": "user",
+        "content": "Who is the hd of computer branch final year?"
+    },
+    {
+        "role": "assistant",
+        "content": "Khobragade mam."
+    },
+    {
+        "role": "user",
+        "content": "No miss ragini mam."
+    },
+    {
+        "role": "assistant",
+        "content": "Ms. Ragini mam."
+    },
+    {
+        "role": "user",
+        "content": "Yes."
+    },
+    {
+        "role": "assistant",
+        "content": "Ms. Ragini mam."
+    },
+    {
+        "role": "user",
+        "content": "Okay."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye!"
+    },
+    {
+        "role": "user",
+        "content": "Who is the hod of the computer branch?"
+    },
+    {
+        "role": "assistant",
+        "content": "Ms. Ragini mam."
+    },
+    {
+        "role": "user",
+        "content": "Error occurred."
+    },
+    {
+        "role": "assistant",
+        "content": "Ms. Ragini mam."
+    },
+    {
+        "role": "user",
+        "content": "Error occurred."
+    },
+    {
+        "role": "assistant",
+        "content": "Ms. Ragini mam."
+    },
+    {
+        "role": "user",
+        "content": "Error occurred."
+    },
+    {
+        "role": "assistant",
+        "content": "Ms. Ragini mam."
+    },
+    {
+        "role": "user",
+        "content": "Error occurred."
+    },
+    {
+        "role": "assistant",
+        "content": "Ms. Ragini mam."
+    },
+    {
+        "role": "user",
+        "content": "Error occurred."
+    },
+    {
+        "role": "assistant",
+        "content": "Ms. Ragini mam."
+    },
+    {
+        "role": "user",
+        "content": "Error occurred."
+    },
+    {
+        "role": "assistant",
+        "content": "Ms. Ragini mam."
+    },
+    {
+        "role": "user",
+        "content": "Error occurred."
+    },
+    {
+        "role": "assistant",
+        "content": "Ms. Ragini mam."
+    },
+    {
+        "role": "user",
+        "content": "Error occurred."
+    },
+    {
+        "role": "assistant",
+        "content": "Ms. Ragini mam."
+    },
+    {
+        "role": "user",
+        "content": "Error occurred."
+    },
+    {
+        "role": "assistant",
+        "content": "Ms. Ragini mam."
+    }
+]
